@@ -1,4 +1,4 @@
-THIS ISN'T THE FULL VERSION OF THE PROGRAMM AND IT WILL NOT WORK IF YOU WON'T COMPLATE THE STEPS LISTED BELOW:
+THIS ISN'T THE FULL VERSION OF THE PROGRAM AND IT WILL NOT WORK IF YOU DON'T COMPLETE THE STEPS LISTED BELOW:
 
 1. Go to Google Cloud Console
 Visit the Google Cloud Console.
@@ -35,5 +35,5 @@ Save this file in the same directory where you’ll have your Python script.
 8. Finish Up
 You now have the credentials.json file, which your Python program will use to authenticate with the Google Calendar API.
 
-Why This Is Important
+Why This Is Important:
 The credentials.json file contains the necessary information for your application to access the Google Calendar API on behalf of your Google account. When your program runs, it will use this file to request permission to manage your Google Calendar, and you'll authorize it through a web browser.
